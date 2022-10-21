@@ -1,0 +1,22 @@
+body{margin: 0%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdG1tzI7fMkGRfWPLqRuhSQnjgiyTuOSJbNg&usqp=CAU);
+    background-size: cover;}
+
+header{ padding: 1em;
+        font-size: xx-large;
+        background-color: rgb(236, 201, 24);}
+
+button:hover{background-color:rgb(236, 201, 24);}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+
+.child input{text-align: center;}
+.child {height: 2em;}
+.child input:hover{background-color:rgb(236, 201, 24);}
+
+h4{margin:1%;}
+
+span{margin-left:0.5em}
