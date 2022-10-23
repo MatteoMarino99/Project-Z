@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&display=swap');
+
+body{margin: 0; font-family: 'Montserrat', sans-serif;
+}
+
+.main-section{padding: 20px;
+}
+.image-container{height: 500px; 
+    background-image: url(https://i.pinimg.com/originals/a5/cd/8f/a5cd8f7c1bf20f2a2c57f09cfa195e5e.jpg);
+     background-repeat: no-repeat; background-size: contain;
+    
+}
+h1{font-family: 'Prata', serif; font-size: 40px; font-weight: 400; margin-bottom: 0;
+}
+h3{font-family: 'Prata', serif; font-size: 24px; font-weight: 400; margin-top: 0; margin-bottom: 0;
+}
+h6{padding: 22px; margin-bottom: 0px;margin-top: 56px;color: white;border-radius: 6px;background: linear-gradient(rgba(169, 78, 26, 0.773),rgb(63, 129, 75));}
+a{font-weight: 600;font-style: normal;}
+ul{list-style: none; padding: 0;}
+ul li{padding-top: 6px; padding-bottom: 6px; padding-left: 22px; border-bottom: 1px; border-bottom-color:  #dfdfdf;}
+ul a{text-decoration: none; color: rgba(169, 78, 26, 0.773) ;}
